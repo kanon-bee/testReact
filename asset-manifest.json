@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:kanon-bee/testReact.git/static/css/main.6f1e107e.chunk.css",
+    "main.js": "/git@github.com:kanon-bee/testReact.git/static/js/main.e7e8cd09.chunk.js",
+    "main.js.map": "/git@github.com:kanon-bee/testReact.git/static/js/main.e7e8cd09.chunk.js.map",
+    "runtime-main.js": "/git@github.com:kanon-bee/testReact.git/static/js/runtime-main.13896537.js",
+    "runtime-main.js.map": "/git@github.com:kanon-bee/testReact.git/static/js/runtime-main.13896537.js.map",
+    "static/js/2.4948d89c.chunk.js": "/git@github.com:kanon-bee/testReact.git/static/js/2.4948d89c.chunk.js",
+    "static/js/2.4948d89c.chunk.js.map": "/git@github.com:kanon-bee/testReact.git/static/js/2.4948d89c.chunk.js.map",
+    "static/js/3.d00fcb53.chunk.js": "/git@github.com:kanon-bee/testReact.git/static/js/3.d00fcb53.chunk.js",
+    "static/js/3.d00fcb53.chunk.js.map": "/git@github.com:kanon-bee/testReact.git/static/js/3.d00fcb53.chunk.js.map",
+    "index.html": "/git@github.com:kanon-bee/testReact.git/index.html",
+    "static/css/main.6f1e107e.chunk.css.map": "/git@github.com:kanon-bee/testReact.git/static/css/main.6f1e107e.chunk.css.map",
+    "static/js/2.4948d89c.chunk.js.LICENSE.txt": "/git@github.com:kanon-bee/testReact.git/static/js/2.4948d89c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13896537.js",
+    "static/js/2.4948d89c.chunk.js",
+    "static/css/main.6f1e107e.chunk.css",
+    "static/js/main.e7e8cd09.chunk.js"
+  ]
+}
